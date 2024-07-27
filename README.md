@@ -23,17 +23,17 @@ Run the `code.py` file
 7- press 'c' to clear the screen
 
 ## Demo
-1- Landing Screen:
+**1- Landing Screen:**
 
 <img src="https://github.com/user-attachments/assets/17437614-7445-401e-ab1b-775e405e3c99" width="300">
 
 
-2- Start point, end point and black barriers:
-
+**2- Start point, end point and black barriers:
+**
 <img src="https://github.com/user-attachments/assets/86d5d9bf-2198-4455-b448-a199d081116c" width="300">
 
 
-3- Pressed 2 for Dijsktra:
+**3- Pressed 2 for Dijsktra:**
 
 <img src="https://github.com/user-attachments/assets/a8434608-b4c3-4dab-93f5-d63f2ec55dbd" width="300">
 
