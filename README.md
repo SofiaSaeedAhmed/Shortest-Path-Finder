@@ -5,6 +5,7 @@ We made use of `Pygame` to set up the screens.
 
 ## Setting up:
 Make sure to import the Pygame library using `pip install pygame`
+
 Run the `code.py` file
 
 ## How it works?
