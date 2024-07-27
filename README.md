@@ -18,6 +18,7 @@ Run the `code.py` file
 
 ## Demo
 1- Landing Screen:
+
 ![image](https://github.com/user-attachments/assets/17437614-7445-401e-ab1b-775e405e3c99)
 
 
