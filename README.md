@@ -9,11 +9,17 @@ Run the `code.py` file
 
 ## How it works?
 1- A landing screen will launch as soon as you run the code. Background music has been added to improve user experience.
+
 2- Read the instructions and click anywhere on the screen to proceed.
+
 3- Click on any box to make a starting point and then click somewhere to make an endpoint of the path.
+
 4- Draw barriers on the screen for more complexity.
+
 5- Keyboard clicks: Press 1 for A* Search visualization and 2 for Dijksra visualization.
+
 6- See the path form.
+
 7- press 'c' to clear the screen
 
 ## Demo
