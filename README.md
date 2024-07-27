@@ -21,4 +21,6 @@ Run the `code.py` file
 
 ![image](https://github.com/user-attachments/assets/17437614-7445-401e-ab1b-775e405e3c99)
 
+<img src="https://github.com/user-attachments/assets/17437614-7445-401e-ab1b-775e405e3c99" width="300">
+
 
