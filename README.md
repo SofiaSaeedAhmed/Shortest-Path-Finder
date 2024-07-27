@@ -31,6 +31,20 @@ Run the `code.py` file
 
 <img src="https://github.com/user-attachments/assets/86d5d9bf-2198-4455-b448-a199d081116c" width="300">
 
+3- Pressed 2 for Dijsktra:
+
+<img src="https://github.com/user-attachments/assets/a8434608-b4c3-4dab-93f5-d63f2ec55dbd" width="300">
+
+Purple is the shortest path.
+
+Green boxes indicate the points taken into account while searching
+
+Orange boxes indicated the boundary of search
+
+
+
+
+
 
 
 
