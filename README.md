@@ -28,8 +28,7 @@ Run the `code.py` file
 <img src="https://github.com/user-attachments/assets/17437614-7445-401e-ab1b-775e405e3c99" width="300">
 
 
-**2- Start point, end point and black barriers:
-**
+**2- Start point, end point and black barriers:**
 <img src="https://github.com/user-attachments/assets/86d5d9bf-2198-4455-b448-a199d081116c" width="300">
 
 
